@@ -7,15 +7,20 @@ I spearheaded the development of an innovative AI-powered game controller and in
 
 # Key Features:
 
-Gesture-based Controls: Integrated Mediapipe's pose detection for real-time recognition of users' hand gestures, translating them into in-game actions.
+# Gesture-based Controls: 
+Integrated Mediapipe's pose detection for real-time recognition of users' hand gestures, translating them into in-game actions.
 
-# Voice Commands: Implemented robust speech recognition capabilities, enabling players to issue commands and control game dynamics using their voice.
+# Voice Commands: 
+Implemented robust speech recognition capabilities, enabling players to issue commands and control game dynamics using their voice.
 
-# Automated Gameplay: Leveraged PyAutoGUI for precise automation of mouse and keyboard actions, enhancing gameplay responsiveness and control.
+# Automated Gameplay: 
+Leveraged PyAutoGUI for precise automation of mouse and keyboard actions, enhancing gameplay responsiveness and control.
 
-# Chatbot Integration: Developed a chatbot companion using NLTK for dynamic interactions, providing players with tips, jokes, and assistance during gameplay.
+# Chatbot Integration: 
+Developed a chatbot companion using NLTK for dynamic interactions, providing players with tips, jokes, and assistance during gameplay.
 
-# Immersive Gaming: Successfully applied the system to play online games, showcasing its potential to redefine the gaming experience through intelligent human-computer interaction.
+# Immersive Gaming: 
+Successfully applied the system to play online games, showcasing its potential to redefine the gaming experience through intelligent human-computer interaction.
 
 
 # Technologies Used:
